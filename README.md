@@ -5,9 +5,9 @@ this is practice
 
 what do you think?
 
-it's *really* **really** _really_** important
+it's *really* **really** important
 
-⋅⋅*first item
+⋅⋅* first item
 
 
 
